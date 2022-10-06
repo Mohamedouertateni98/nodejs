@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "learnyounode": "^4.2.2",
+    "workshopper": "^2.7.0"
+  }
+}
